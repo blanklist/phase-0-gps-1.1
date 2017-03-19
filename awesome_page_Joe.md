@@ -1,6 +1,6 @@
 ##Golden State Warriors##
 
-###Team Leaders###
+###Team Leadership###
 
 *Points Per Game*
 
