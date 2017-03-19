@@ -1,0 +1,6 @@
+I feel relatively solid on the conceptual use of git and github for version control and collaboration. What I don't feel as solid on is the syntax and commands, the process. It will simply take more drilling and repetition to perfect.
+Having repeated the process multiple times in this pairing session helped me to commit (yuk yuk) the git commands to memory.  This session was especially helpful to have two others present reinforcing proper flow.
+I leaned on my pair for syntactical help at first, a bit more than I would have liked. I asked the guide multiple things about subtleties and real world application of our training practices.
+I'm pleased with where I'm at with git. I know I need more repetition and specifically need to see the process of pull requests and group work on github.
+The pairing session was very helpful. Everyone has been really encouraging and forthright about their own learning and progress which makes for a welcoming environment. Having multiple people present helped me drill home good workflow in a different way from working independently and referencing cheatsheets.
+ 
